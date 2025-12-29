@@ -320,7 +320,6 @@ void main(){
    * 6. hashcode: It is used to get the hash code for the corresponding object.
    * 7. Single: It is used to check whether a set contains only one element.
    */
-  /*
   var myCitySet = <String>{"Dhaka", "Cumilla", "Barishal"};
   print(myCitySet);
   print("First: ");
@@ -335,10 +334,10 @@ void main(){
   print(myCitySet.hashCode);
   //print("Single: ");
   //print(myCitySet.single); // Bad state: Too many elements
-  */
+
 
   /************************** 20: Dart MAP ***************************************************
-   * Dart map is an object that sotores data in the form of a key-value pair.
+   * Dart map is an object that stores data in the form of a key-value pair.
    * Each value is associate with its key, and it is used to access its corresponding value.
    * Both keys and values can be any type.
    * In Dart Map, each key must be unique, but the same value can occur multiple times.
