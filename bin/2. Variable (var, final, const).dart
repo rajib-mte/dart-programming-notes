@@ -96,6 +96,7 @@ void main(){
   s = "Rajib";
   print(s.runes);
 
+  /* (18) ----- runes: Returns Unicode code points ------ */
 
 
 }
