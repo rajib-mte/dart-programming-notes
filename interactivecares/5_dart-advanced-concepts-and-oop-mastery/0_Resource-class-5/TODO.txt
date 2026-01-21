@@ -1,0 +1,36 @@
+1. What is Function
+    - Bloc, Modular Coding
+    - How to Write Function
+    - How to call Function
+    - Simple Function
+
+2. Why Function
+    - Code Re-usable
+    - Code Modular
+    - Code Test Easy
+    - Code Organize
+    - Clean Code
+    - Code Readable
+    - Bug Findings and Solution Easy
+
+3. Function Parameter
+
+4. Function Default Parameter, Named Parameter
+
+5. Function Parameter Type Hinting
+
+6. Function Return
+    একটা ফাংশন যাহা Return করে গুনে(Data Type) ও মানে(Value) উহা তাহার সমান হয়ে যায় ।
+    - int,double,string,map,set,list,object, class, ...... anything
+    - Return Type Hinting
+
+7. Arrow Function or Short Hand Function Inline
+
+8. Async Function example
+    - Heavy Task
+    - API Call
+    - File Upload
+    - File Download
+    - Back End
+    - async await
+
