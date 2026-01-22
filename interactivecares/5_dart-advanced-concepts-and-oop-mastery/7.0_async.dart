@@ -12,13 +12,21 @@
 *   Handled with: callbacks, promises, Async/Await.
 *   link: https://www.youtube.com/watch?v=Coyy79wRz_s
 *   link:
+* # Heavy task
+* # API call
+* # File Upload
+* # File download
+* # Back End
+* # async await
 * */
 
 
 
 void main() async{
 
+  // fetchData();
   await fetchData();
+  print("hello");
 
 
 }
@@ -29,6 +37,8 @@ Future fetchData() async{
   //Data load
   // Process -> await
   print("Loading.....");
-  await Future.delayed(Duration(seconds: 20));
+  await Future.delayed(Duration(seconds: 5));
   print("Data Load successfully");
 }
+
+
