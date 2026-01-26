@@ -1,6 +1,5 @@
 
-
-
+/*Modern style*/
 
 
 
@@ -14,7 +13,8 @@ Future MyFun() async{
 main() async{
   try{
     var result = await MyFun();
-    print(result);
+    // print(result);
+    print(result+1);
   } catch(error){
     print(error);
   }
