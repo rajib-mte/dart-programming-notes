@@ -22,7 +22,7 @@ void heavyTask2(num){
   }
 }
 
-
+// async
 main() async{
 
   await Isolate.spawn(heavyTask, 10000);
