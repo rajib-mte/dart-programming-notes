@@ -1,0 +1,55 @@
+1.What is OOP
+    - Set of Rules for Coding
+    - Code Reusability
+    - Maintenance
+    - Clean Code , Modularity
+
+======================================================
+
+2.Real Life Use Case
+    - Entire Flutter is over OOP
+
+=========================================================
+
+3.Class in details
+        - Class is a blueprint or template
+        - Create a Class and Put Variable and Function
+        - Variable-> Class Variable
+        - Function-> Class Function/Method
+        - Variable, Function--> Class Properties
+
+=========================================================
+
+4.Class --> Object
+
+=========================================================
+
+5.Class Constructor (Default Constructor)
+    - Class Constructor is a Function
+    - But Auto Executed Function
+    - This Function name is Like The Class Name
+    - Constructor Can't Return
+
+=======================================================
+
+6.Class Constructor Parameters (Parameterized Constructor)
+
+========================================================
+
+7.Inheritance (উত্তরাধিকার)
+        - Parent Class (Father)
+        - Child Class (Son)
+
+=========================================================
+
+8.Inheritance Constructor
+
+=========================================================
+
+9.Encapsulation
+
+=========================================================
+
+10.Getter Setter
+
+=========================================================
