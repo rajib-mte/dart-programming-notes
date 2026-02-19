@@ -3,8 +3,8 @@
 
 
 void main(){
-  var father = Son();
-  father.hobby();
+  var son = Son();
+  son.hobby();
 
 
 }
